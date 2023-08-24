@@ -1,9 +1,9 @@
-### Hello stranger.
-### My name is Bess (she/her/hers). I am a junior at Southwestern University studying computer science. This fall, I'll be learning about database management and computational organization.
-### I am interested in data science, the application of ethics in AI and machine learning, and UX design that focuses on accessibility.
-### Fun fact: Two of my favorite book series are "The Magicians" trilogy and "The Themis Files" trilogy.
+### :wave: Hello stranger.
+### :mortar_board: I'll be learning about database management and computational organization this fall.
+### :nerd_face: I am interested in data science, ethics in AI and machine learning, and accessibility driven UX design.
+### :book: Fun fact: Two of my favorite book series are "The Magicians" and "The Themis Files."
 
-Email: haganb@southwestern.edu
+:mailbox_with_mail: How to reach me: haganb@southwestern.edu
 
 <!--
 **besshagan/besshagan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
