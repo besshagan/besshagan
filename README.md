@@ -1,6 +1,6 @@
 ### :wave: Hello stranger.
-### :mortar_board: I'll be learning about database management and computational organization this fall.
-### :nerd_face: I am interested in data science, ethics in AI and machine learning, and accessibility driven UX design.
+### :mortar_board: I'll be participating in the DREU program this summer.
+### :nerd_face: I am interested in data science, AI, and accessibility driven UX design.
 ### :book: Fun fact: Two of my favorite book series are "The Magicians" and "The Themis Files."
 
 :mailbox_with_mail: How to reach me: haganb@southwestern.edu
