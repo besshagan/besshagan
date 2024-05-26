@@ -1,7 +1,7 @@
 ### :nerd_face: Hello stranger.
 ### :mortar_board: I am interested in data science, AI, and accessibility driven UX design.
 ### :brain: I'm participating in the DREU program this summer at the University of Illinois at Urbana Champaign.
-### :snake::panda: I’m currently learning how to analyze data in a mySQL database using Python and Pandas.
+### :snake: I’m currently learning how to analyze data in a mySQL database using Python and Pandas. :panda_face:
 ### :book: Fun fact: Two of my favorite book series are "The Magicians" and "The Themis Files."
 
 :mailbox_with_mail: How to reach me: haganb@southwestern.edu
