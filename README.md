@@ -1,5 +1,6 @@
 ### :wave: Hello stranger.
-### :mortar_board: I'll be participating in the DREU program this summer.
+### :mortar_board: I'm participating in the DREU program this summer at the University of Illinois at Urbana Champaign.
+🌱 I’m currently learning how to analyze data in a mySQL database using Python and Pandas.
 ### :nerd_face: I am interested in data science, AI, and accessibility driven UX design.
 ### :book: Fun fact: Two of my favorite book series are "The Magicians" and "The Themis Files."
 
