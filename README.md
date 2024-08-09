@@ -1,15 +1,13 @@
-### :brain: I am interested in data science, AI, and computing research.
-### :mortar_board: I recently completed my first REU at UIUC conducting research for the INVITE Institute!
-
-### 🐍 Read my first academic technical report on persistence in computing education <a href="https://besshagan.github.io/files/finalreport.pdf">here</a>! 🐼
+### 🎓 I am CS undergrad interested in data science, AI, and computing research.
+### 🧠 This fall I'll be studying machine learning using Python and introdutory data analytics using R.
+### 🐍 I recently completed my first summer REU at UIUC conducting research for the INVITE Institute!
+### 🐼 Read my first academic technical report on persistence in computing education [here](https://besshagan.github.io/files/finalreport.pdf)!
 
 :mailbox_with_mail: How to contact me: haganb@southwestern.edu
 
 <!--
 **besshagan/besshagan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
