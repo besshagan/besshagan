@@ -1,7 +1,7 @@
 ### :brain: I am interested in data science, AI, and computing research.
 ### :mortar_board: I recently completed my first REU at UIUC conducting research for the INVITE Institute!
 
-🐍 Read my first academic technical report <a href="https://besshagan.github.io/files/finalreport.pdf">here</a>! 🐼
+### 🐍 Read my first academic technical report on persistence in computing education <a href="https://besshagan.github.io/files/finalreport.pdf">here</a>! 🐼
 
 :mailbox_with_mail: How to contact me: haganb@southwestern.edu
 
