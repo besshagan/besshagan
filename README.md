@@ -1,10 +1,9 @@
-### :nerd_face: Hello stranger.
-### :brain: I am interested in data science, AI, and accessibility driven UX design.
-### :mortar_board: I'm participating in the DREU program this summer at the University of Illinois at Urbana Champaign.
-### :snake: I’m currently learning how to analyze data in a mySQL database using Python and Pandas. :panda_face:
-### :book: Fun fact: Two of my favorite book series are "The Magicians" and "The Themis Files."
+### :brain: I am interested in data science, AI, and computing research.
+### :mortar_board: I recently completed my first REU at UIUC conducting research for the INVITE Institute!
 
-:mailbox_with_mail: How to reach me: haganb@southwestern.edu
+🐍 Read my first academic technical report <a href="https://besshagan.github.io/files/finalreport.pdf">here</a>! 🐼
+
+:mailbox_with_mail: How to contact me: haganb@southwestern.edu
 
 <!--
 **besshagan/besshagan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
