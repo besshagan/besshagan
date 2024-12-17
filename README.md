@@ -1,6 +1,6 @@
 ### 🎓 I am CS undergrad interested in data science, AI, and computing research.
-### 🧠 This fall I'll be studying machine learning using Python and introdutory data analytics using R.
-### 🐍 I recently completed my first summer REU at UIUC conducting research for the INVITE Institute!
+### 🧠 I recently completed courses in machine learning using Python and data analytics using R.
+### 🐍 Last summer I was accepted into the DREU program at UIUC conducting research for the INVITE Institute!
 ### 🐼 Read my first academic technical report on persistence in computing education [here](https://besshagan.github.io/files/finalreport.pdf)!
 
 :mailbox_with_mail: How to contact me: haganb@southwestern.edu
