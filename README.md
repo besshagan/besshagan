@@ -1,4 +1,4 @@
-### 🎓 I am CS undergrad interested in data science, AI, and computing research.
+### 🎓 I'm a CS undergrad interested in data science, AI, and computing research.
 ### 🧠 I’m currently working on my CS Capstone in Software Engineering project.
 ### 🎮 Download and play my Capstone project [here](https://su-capstone.itch.io/evergrove)!
 ### 🔭 I was recently accepted into the 2025 SURF program to study Procedural Content Generation with AI.
