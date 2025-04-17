@@ -1,7 +1,7 @@
 ### 🎓 I am CS undergrad interested in data science, AI, and computing research.
 ### 🧠 I’m currently working on my CS Capstone in Software Engineering project.
 ### 🎮 Download and play my Capstone project [here](https://su-capstone.itch.io/evergrove)!
-### 🔭 I was recently accepted in the 2025 SURF program to study Procedural Content Generation with AI.
+### 🔭 I was recently accepted into the 2025 SURF program to study Procedural Content Generation with AI.
 ### 🐍 In 2024, I completed the DREU program at UIUC conducting research for the INVITE Institute!
 ### 🐼 Read my first academic technical report on persistence in computing education [here](https://besshagan.github.io/files/finalreport.pdf)!
 
