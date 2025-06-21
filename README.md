@@ -1,6 +1,6 @@
 ### 🎓 CS undergrad interested in data science, AI, and computing research.
 ### 🧠 Actively conducting research on Procedural Content Generation (PCG) with AI for the 2025 SURF program.
-### 🔭 Check out some of my CS projects [here](https://besshagan.github.io/)!
+### 🔭 Check out some of my CS projects <a href="https://besshagan.github.io/" target="_blank">here!</a>
 
 :mailbox_with_mail: How to contact me: haganb@southwestern.edu
 
