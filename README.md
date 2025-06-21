@@ -1,8 +1,8 @@
-### 🎓 I'm a CS undergrad interested in data science, AI, and computing research.
-### 🧠 I’m currently working on my CS Capstone in Software Engineering project.
+### 🎓 CS undergrad interested in data science, AI, and computing research.
+### 🔭 Actively participating in the 2025 SURF program, conducting research on Procedural Content Generation (PCG) with AI.
+### 🧠 Recently completed my Senior Capstone in Software Engineering project.
 ### 🎮 Download and play my Capstone project [here](https://su-capstone.itch.io/evergrove)!
-### 🔭 I was recently accepted into the 2025 SURF program to study Procedural Content Generation with AI.
-### 🐍 In 2024, I completed the DREU program at UIUC conducting research for the INVITE Institute!
+### 🐍 Completed the 2024 DREU program at UIUC conducting research for the INVITE Institute!
 ### 🐼 Read my first academic technical report on persistence in computing education [here](https://besshagan.github.io/files/finalreport.pdf)!
 
 :mailbox_with_mail: How to contact me: haganb@southwestern.edu
