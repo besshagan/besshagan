@@ -1,4 +1,4 @@
-### 🎓 CS undergrad interested in data science, AI, and computing research.
+### 🎓 CS undergrad interested in data science, AI, LLMs, and GIS.
 ### 🧠 Actively conducting research on Procedural Content Generation (PCG) with AI for the 2025 SURF program.
 ### 🔭 Check out some of my CS projects <a href="https://besshagan.github.io/" target="_blank">here!</a>
 
