@@ -2,8 +2,6 @@
 ### 🧠 Recently completed research on Procedural Content Generation (PCG) with AI for the 2025 SURF program.
 ### 🔭 Check out some of my CS projects <a href="https://besshagan.github.io/" target="_blank">here!</a>
 
-:mailbox_with_mail: How to contact me: haganb@southwestern.edu
-
 <!--
 **besshagan/besshagan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
