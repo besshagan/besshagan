@@ -1,6 +1,6 @@
-### 🎓 CS undergrad interested in data science, AI, LLMs, and GIS.
-### 🧠 Recently completed research on Procedural Content Generation (PCG) with AI for the 2025 SURF program.
-### 🔭 Check out some of my CS projects <a href="https://besshagan.github.io/" target="_blank">here!</a>
+### 🎓 Recently graduated Summa Cum Laude with a BA in CS and a minor in data analytics.
+### 🔭 Interested in data science, AI, LLMs, and GIS.
+### ⚡ Check out some of my CS projects <a href="https://besshagan.github.io/" target="_blank">here!</a>
 
 <!--
 **besshagan/besshagan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
