@@ -1,6 +1,7 @@
-### 🎓 Recently graduated Summa Cum Laude with a BA in CS and a minor in data analytics.
-### 🔭 Interested in data science, AI, LLMs, and GIS.
-### ⚡ Check out some of my CS projects <a href="https://besshagan.github.io/" target="_blank">here!</a>
+### 📊 Planning Specialist at City of Georgetown. 
+### 🎓 CS graduate (BA, Summa Cum Laude) with a minor in Data Analytics.
+### 🔭 Interested in data quality, permitting and planning data, GIS, and process automation.
+### ⚡ Check out my data and CS projects <a href="https://besshagan.github.io/" target="_blank">here!</a>
 
 <!--
 **besshagan/besshagan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
